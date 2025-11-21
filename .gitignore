@@ -116,5 +116,4 @@ dmypy.json
 _output
 
 # Nicht-Aufgaben-Dateien
-*.py
 /old
